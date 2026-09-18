@@ -15,12 +15,10 @@ e organização dos documetos.
 
 Etapas do processo:
   1. Padronização: Limpeza e tratamento dos nomes dos municípios.
-  2. Classificação: Agrupamento por tipo de vistoria (manual ou mecânica).
+  2. Classificação: Agrupamento por tipo de vistoria (manual ou mecânico).
   3. Estruturação: Criação do modelo padrão de subpastas.
-  4. Tratamento Especial (RH III - 2024): Limpeza e reorganização da pasta 2024 da RH III 
-(única sem divisão entre frentes manuais e mecânicas).
-  5. Hierarquia Geográfica: Separação na estrutura Município (pasta principal) --> Corpo Hídrico (subpasta).
-  6. Movimentação: Reorganização final dos documentos dentro da nova estrutura.
+  4. Hierarquia Geográfica: Separação na estrutura Município (pasta principal) --> Corpo Hídrico (subpasta).
+  5. Movimentação: Reorganização final dos documentos dentro da nova estrutura.
 
 * Nota: A varredura e a movimentação são aplicadas exclusivamente às pastas de período no formato 
 DD.MM.AAAA a DD.MM.AAAA, 2024 e 2025 e ignora as demais pastas do diretório.
@@ -32,7 +30,7 @@ DD.MM.AAAA a DD.MM.AAAA, 2024 e 2025 e ignora as demais pastas do diretório.
 # _________________________________________________________________________________________________________________________
 
 # base_dir = Path.home() / "Downloads" / "2025" 
-base_dir = Path(r"M:\007 - Produção\Estagiários\Karen\teste_rh3_2024 -- OK\2025\01.10.2025 a 31.10.2025")
+base_dir = Path(r"M:\001 - Vistorias de Campo\01 - Vistorias de Campo RH I e II")
 # _________________________________________________________________________________________________________________________
 #                                         PADRONIZAÇÃO DA NOMENCLATURA DOS MUNICÍPIOS
 # _________________________________________________________________________________________________________________________

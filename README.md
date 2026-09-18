@@ -4,7 +4,7 @@ Código em Python para padronização e organização automática de pastas de v
 ---
 
 ## Visão Geral do Projeto
-1. **`manin.py`**: Código principal, responsável pela padronização e movimentação de pastas;
+1. **`main.py`**: Código principal, responsável pela padronização e movimentação de pastas;
 2. **`RH3_2024.py`**: Código auxiliar focando exclusivamente na pasta 2024 da RH III, que possui uma estrutura diferente das demais;
 3. **`desfazer.py`**: Código de segurança para devolver reverter as movimentações caso necessário.
 

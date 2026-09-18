@@ -41,10 +41,10 @@ LIMPARIO 2024 (M:)/
 # _________________________________________________________________________________________________________________________
 
 """ Definir diretório """
-base_dir = Path(r"M:\007 - Produção\Estagiários\Karen\teste_rh3_2024 -- OK")
+base_dir = Path(r"M:\001 - Vistorias de Campo\02 - Vistorias de Campo RH III")
 
 """ Definir diretório teste"""
-# base_dir = Path.home() / "Downloads" / "teste_rh3_2024"
+# base_dir = Path.home() / "teste_rh3_2024"
 
 
 

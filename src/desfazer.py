@@ -3,7 +3,7 @@ import shutil
 from pathlib import Path
 
 # 01. Selecione a mesma pasta base do script principal
-base_dir = Path(r"M:\007 - Produção\Estagiários\Karen\teste_rh3_2024 -- OK")
+base_dir = Path(r"M:\007 - Produção\Estagiários\Karen\teste_rh3_2024")
 
 # 02. Localiza o arquivo de histórico
 caminho_historico = Path(__file__).parent / "historico_movimentacoes.json"

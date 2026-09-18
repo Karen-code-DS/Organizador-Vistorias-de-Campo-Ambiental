@@ -41,25 +41,25 @@ LIMPARIO 2024 (M:)/
 └── [Pasta de Vistoria de Campo]/
     └── [Município]/
          ├── Cartão Técnico de Obra/
-         │       └── (Arquivos/Subpastas originais)
+         │   └── (Arquivos/Subpastas originais)
          ├── Manual/
-         │    ├── [Corpo Hídrico]/
-         │    │    ├── 01 - Docs. INEA
-         │    │    ├── 02 - Boletins de Vistoria
-         │    │    ├── 03 - Fotos
-         │    │    ├── 04 - KMZ
-         │    │    ├── 05 - PDF Medição
-         │    │    └── 06 - Obsoleto *
-         │    ├── Vacall/ *
-         │    │    ├── 01 - Docs. INEA
-         │    │    ├── 02 - Boletins de Vistoria
-         │    │    ├── 03 - Fotos
-         │    │    └── 04 - Obsoleto *
-         │    └── Socioambiental/ *
-         │         ├── 01 - Docs. INEA
-         │         ├── 02 - Boletins de Vistoria
-         │         ├── 03 - Fotos
-         │         └── 04 - Obsoleto *
+         │   ├── [Corpo Hídrico]/
+         │   │    ├── 01 - Docs. INEA
+         │   │    ├── 02 - Boletins de Vistoria
+         │   │    ├── 03 - Fotos
+         │   │    ├── 04 - KMZ
+         │   │    ├── 05 - PDF Medição
+         │   │    └── 06 - Obsoleto *
+         │   ├── Vacall/ *
+         │   │    ├── 01 - Docs. INEA
+         │   │    ├── 02 - Boletins de Vistoria
+         │   │    ├── 03 - Fotos
+         │   │    └── 04 - Obsoleto *
+         │   └── Socioambiental/ *
+         │        ├── 01 - Docs. INEA
+         │        ├── 02 - Boletins de Vistoria
+         │        ├── 03 - Fotos
+         │        └── 04 - Obsoleto *
          └── Mecânico/
               └── [Corpo Hídrico]/
                   ├── 01 - Docs. INEA

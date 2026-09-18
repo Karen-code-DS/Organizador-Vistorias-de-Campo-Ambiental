@@ -83,3 +83,24 @@ Tem o objetivo de garantir a segurança operacional do projeto. Caso ocorra qual
 1. **Leitura do Histórico:** O script lê o arquivo `historico_movimentacoes.json`, que armazena o mapeamento exato de cada origem e destino de item movimentado.
 2. **Processo Inverso:** Ele percorre os registros de forma decrescente, movendo os arquivos de volta para as pastas de onde vieram originalmente.
 3. **Validação de Segurança:** Valida a existência dos caminhos para evitar erros de diretório inexistente durante a restauração.
+
+---
+
+## Pré-requisitos
+
+- Ter o Python 3.8+ instalado.
+- Acesso à unidade de rede configurada (Mapeamento padrão: M:\001 - Vistorias de Campo).
+
+---
+
+## Estrutura do Repositório
+
+```text
+Organizador-Visotrias-de-Campo/
+├── src/
+│   ├── RH3_2024.py
+│   ├── desfazer.py
+│   └── main.py    
+├── .gitignore                  
+├── README.md                   
+└── requirements.txt            

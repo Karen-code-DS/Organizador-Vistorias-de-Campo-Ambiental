@@ -70,7 +70,7 @@ LIMPARIO 2024 (M:)/
                   ├── 06 - Apontamento *
                   └── 07 - Obsoleto *
 ```
-* Notas sobre a estrutura:
+Notas sobre a estrutura:
 - **Pastas Condicionais:** Os diretórios marcados com asterisco (*), assim como subpastas específicas como Vacall ou Socioambiental, são gerados dinamicamente apenas se houver documentos correspondentes detectados durante o processamento. Caso contrário, são omitidos.
 
 ---

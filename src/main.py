@@ -29,7 +29,6 @@ DD.MM.AAAA a DD.MM.AAAA, 2024 e 2025 e ignora as demais pastas do diretório.
 #                                                 SELECIONANDO O DIRETÓRIO
 # _________________________________________________________________________________________________________________________
 
-# base_dir = Path.home() / "Downloads" / "2025" 
 base_dir = Path(r"M:\001 - Vistorias de Campo\01 - Vistorias de Campo RH I e II")
 # _________________________________________________________________________________________________________________________
 #                                         PADRONIZAÇÃO DA NOMENCLATURA DOS MUNICÍPIOS

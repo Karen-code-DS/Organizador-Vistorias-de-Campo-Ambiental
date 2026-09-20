@@ -152,18 +152,6 @@ try:
                         nome_tratado,
                         flags=re.IGNORECASE,
                     ).strip()
-                        
-                        
-                    # tipo_vistoria_detectado = "Manual" if "manual" in item.name.lower() else "Mecânico"
-                    # nome_tratado = item.name.replace("—", "-").replace("–", "-")
-                    
-                    # """ Remove termos específicos do nome da pasta. """
-                    # nome_limpo = re.sub(
-                    #     r"\s*(\((manual|mecânico|mecanico|F|P|OS|VP|M)\)|[_-]\s*(finalizado|finalizada))",
-                    #     "",
-                    #     nome_tratado,
-                    #     flags=re.IGNORECASE,
-                    # ).strip()
                     
                     """ Remove eventuais hífens ou espaços sobrantes na ponta do nome. """
                     nome_limpo = re.sub(r"[_-]\s*$", "", nome_limpo).strip()

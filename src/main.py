@@ -289,7 +289,7 @@ def pastas_validas(nome_pasta):
 """ 04. Define a estutura das subpastas do corpo hídrico e socioambiental/vacall/emergencial(obsoleto). """
 def obter_regras_pastas(tipos_vistoria, corpo_hidrico=""): # tipos_vistoria está sublinhado pois não chamamos ele na função
     ch_lower = corpo_hidrico.lower()
-    if ch_lower in ["socioambiental", "vacall"]:
+    if ch_lower in ["socioambiental", "vacall", "emergencial(obsoleto)"]:
         return {
             "Boletins de Vistoria": "01 - Boletim"   ,
             "Fotos"               : "02 - Fotos"     ,

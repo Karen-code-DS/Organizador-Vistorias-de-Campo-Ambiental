@@ -51,14 +51,14 @@ LIMPARIO 2024 (M:)/
          │   │    ├── 05 - PDF Medição
          │   │    └── 06 - Obsoleto *
          │   ├── Vacall/ *
-         │   │    ├── 01 - Docs. INEA
-         │   │    ├── 02 - Boletins de Vistoria
-         │   │    ├── 03 - Fotos
+         │   │    ├── 01 - Boletim
+         │   │    ├── 02 - Fotos
+         │   │    ├── 03 - KMZ
          │   │    └── 04 - Obsoleto *
          │   └── Socioambiental/ *
-         │        ├── 01 - Docs. INEA
-         │        ├── 02 - Boletins de Vistoria
-         │        ├── 03 - Fotos
+         │        ├── 01 - Boletim
+         │        ├── 02 - Fotos
+         │        ├── 03 - KMZ
          │        └── 04 - Obsoleto *
          └── Mecânico/
               └── [Corpo Hídrico]/
